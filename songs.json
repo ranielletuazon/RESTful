@@ -1,0 +1,41 @@
+   {
+         "song1" : {
+            "song" : "Puabaya",
+            "artist" : "Moira Dela Torre",
+            "genre" : "jazz",
+            "link" : "https://www.youtube.com/watch?v=DmVjmzOmUO4",
+            "id" : 1
+         },
+      
+         "song2" : {
+            "song" : "Buwan",
+            "artist" : "Juan Karlos",
+            "genre" : "alternative",
+            "link" : "https://www.youtube.com/watch?v=KK3tIclJ140",
+            "id": 2
+         },
+      
+         "song3" : {
+            "song" : "Uhaw",
+            "artist" : "Dilaw",
+            "genre" : "indie",
+            "link" : "https://www.youtube.com/watch?v=rWF42VRvsLg",
+            "id": 3
+         },
+
+         "song4" : {
+            "song" : "Sagutan",
+            "artist" : "SUD",
+            "genre" : "pop",
+            "link" : "https://www.youtube.com/watch?v=_N1lyWTSr1Y",
+            "id": 4
+         },
+      
+         "song5" : {
+            "song" : "Imahe",
+            "artist" : "Magnus Haven",
+            "genre" : "indie, rock",
+            "link" : "https://www.youtube.com/watch?v=WerQABDxisM",
+            "id": 5
+         }
+   }
